@@ -389,8 +389,8 @@ hr {
   background-color: #d3d1d1;
   grid-row: 1;
   grid-column: 1;
-  margin: 0 0 5px 5px;
-  height: 836px;
+  margin: 5px 0 5px 5px;
+  height: 832px;
 }
 
 .page2 .training h3 {
@@ -440,8 +440,8 @@ hr {
 
 .page2 #aside-right {
   background-color: #d3d1d1;
-  margin: 0 5px 5px 0;
-  height: 836px;
+  margin: 5px 5px 5px 0;
+  height: 832px;
 }
 
 .page2 .summary #prof {
